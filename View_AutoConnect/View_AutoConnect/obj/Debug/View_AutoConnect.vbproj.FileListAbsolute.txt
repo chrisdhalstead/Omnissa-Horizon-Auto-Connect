@@ -1,0 +1,12 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\View_AutoConnect\View_AutoConnect\bin\Debug\View_AutoConnect.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\View_AutoConnect\View_AutoConnect\bin\Debug\View_AutoConnect.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\View_AutoConnect\View_AutoConnect\bin\Debug\View_AutoConnect.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\View_AutoConnect\View_AutoConnect\bin\Debug\View_AutoConnect.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\View_AutoConnect\View_AutoConnect\obj\Debug\View_AutoConnect.Form1.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\View_AutoConnect\View_AutoConnect\obj\Debug\View_AutoConnect.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\View_AutoConnect\View_AutoConnect\obj\Debug\View_AutoConnect.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\View_AutoConnect\View_AutoConnect\obj\Debug\View_AutoConnect.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\View_AutoConnect\View_AutoConnect\obj\Debug\View_AutoConnect.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\View_AutoConnect\View_AutoConnect\obj\Debug\View_AutoConnect.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\View_AutoConnect\View_AutoConnect\obj\Debug\View_AutoConnect.vbprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\View_AutoConnect\View_AutoConnect\obj\Debug\View_AutoConnect.Dialog1.resources
